@@ -15,9 +15,7 @@
 </h4>
   </div>
   <div class="col-lg-6 col-6">
- <h1>Phone Phe
-
- </h1>
+ <h1>Phone Pe</h1>
  <h6 style="color:blue">+91 9108765246</h6>
     </div>
 </div>
