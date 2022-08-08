@@ -16,7 +16,7 @@
                                     lose yourself in service of others"
                                 </h2>
                                 <p>
-                                    Tripura Foundation | Jangatta (V) Kolar (D) Karnataka<a
+                                    Tripura Foundation | Jangatta (V) Kolar (D)<a
                                         href="./index.php?page=about">
                                         Read More
                                     </a>
