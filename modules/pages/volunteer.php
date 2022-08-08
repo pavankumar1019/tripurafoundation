@@ -2,9 +2,9 @@
     <div class="catagory_container ">
         <div class="container ">
             <div class="heading_container heading_center">
-                <h6>
+                <h2>
                    Our Volunteer's
-                </h6>
+                </h2>
                 <br>
                 <table class="table table-bordered">
 
