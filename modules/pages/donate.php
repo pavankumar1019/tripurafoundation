@@ -3,7 +3,7 @@
   <h1>Donate</h1>
   <h6>Alone we can do so little together we can do so much </h6>
 <div class="row">
-  <div class="col-6">
+  <div class="col-lg-6 col-12">
 <h1>Bank Account</h1>
 
 <h4>
@@ -14,7 +14,7 @@
   IFS Code :  <span style="color:blue">UBIN0577499</span> <br>
 </h4>
   </div>
-  <div class="col-6">
+  <div class="col-lg-6 col-6">
  <h2>Phone Phe
 
  </h2>
