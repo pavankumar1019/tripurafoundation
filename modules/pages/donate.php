@@ -17,8 +17,6 @@
   <div class="col-lg-6 col-6">
  <h1>Phone Pe</h1>
  <h6 style="color:blue">+91 9108765246</h6>
- <a href="upi://pay?pa=9686319146swa@ibl&pn=TRIPURA FOUNDATION&cu=INR" class="upi-pay1"><b>Gpay</b> Click Here</a>
-
     </div>
 </div>
 </div>
