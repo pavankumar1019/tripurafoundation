@@ -7,7 +7,7 @@
               Contact Us
             </h2>
           </div>
-          <form action="#" id="form-search">
+          <form id="form-search">
             <div>
               <input type="text" placeholder="Name" />
             </div>
