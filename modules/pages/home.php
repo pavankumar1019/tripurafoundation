@@ -377,7 +377,7 @@
                         Contact Us
                     </h2>
                 </div>
-                <form action="#">
+                <form action="#" id="form-search">
                     <div>
                         <input type="text" placeholder="Name" />
                     </div>
@@ -391,7 +391,7 @@
                         <input type="text" class="message-box" placeholder="Message" />
                     </div>
                     <div class="btn-box">
-                        <button>
+                        <button type="submit">
                             SEND
                         </button>
                     </div>

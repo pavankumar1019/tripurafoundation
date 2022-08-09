@@ -121,6 +121,21 @@ Our Vision
     document.getElementById("ayanamsa").innerHTML=panchang.Ayanamsa.name;
   });
 </script>
+<script>
+  $('#form-search').on('submit', function(e){
+    e.preventDefault();
+    
+    var data = $("#form-search").serialize();
+    $.ajax({
+         data: data,
+         type: "post",
+         url: "email.php",
+         success: function(data){
+              alert(data);
+         }
+	});
+});
+</script>
 </body>
 
 
