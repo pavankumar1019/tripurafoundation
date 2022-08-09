@@ -3,9 +3,9 @@
          $to = "mvk85126@gmail.com";
          $subject = "Tripura Foundation";
          
-         $message = "<h1>Hi Iam ".$_POST['name']."</h1>";
+         $message = "<h1>Hi Iam ".$_POST['u_name']."</h1>";
          $message .= "<h2>Contact : <span style='color:blue;'>".$_POST['contact']."</span> </h2>";
-         $message .= "<b>Contact : ".$_POST['contact']." </b>";
+         $message .= "<b>".$_POST['message']."</b>";
          
          $header = "From:info@pkwebdev.com \r\n";
          $header .= "Cc:info@pkwebdev.com \r\n";
