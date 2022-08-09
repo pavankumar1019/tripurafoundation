@@ -27,6 +27,8 @@
   <!-- responsive style -->
   <link href="css/responsive.css" rel="stylesheet" />
   <link rel="manifest" href="manifest.webmanifest">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
 <style>
   .add-button {
   position: absolute;
