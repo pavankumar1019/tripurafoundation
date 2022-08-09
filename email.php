@@ -1,10 +1,11 @@
 <?php
 
          $to = "pavan5639kumar@gmail.com";
-         $subject = "This is subject";
+         $subject = "Tripura Foundation";
          
-         $message = "<b>This is HTML message.</b>";
-         $message .= "<h1>This is headline.</h1>";
+         $message = "<h1>Hi Iam ".$_POST['name']."</h1>";
+         $message .= "<h2>Contact : <span style='color:blue;'>".$_POST['contact']."</span> </h2>";
+         $message .= "<b>Contact : ".$_POST['contact']." </b>";
          
          $header = "From:info@pkwebdev.com \r\n";
          $header .= "Cc:info@pkwebdev.com \r\n";
