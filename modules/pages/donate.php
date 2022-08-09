@@ -14,7 +14,7 @@
   IFS Code :  <span style="color:blue">UBIN0577499</span> <br>
 </h4>
   </div>
-  <div class="col-lg-6 col-6">
+  <div class="col-lg-6 col-12">
  <h1>Phone Pe</h1>
  <h6 style="color:blue">+91 9108765246</h6>
     </div>
