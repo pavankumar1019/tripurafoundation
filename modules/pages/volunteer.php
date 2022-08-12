@@ -65,7 +65,7 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Ravi.jpeg" width="150px" alt="" srcset=""> </th>
+                            <th><img src="./members/IMG-6582.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Ravi</h6></td>
 
                         </tr>
