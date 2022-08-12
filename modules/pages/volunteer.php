@@ -15,7 +15,7 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Sriduar N.jpeg" width="150px" alt="" srcset=""> </th>
+                            <th><img src="./members/IMG-6581.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Sridhar N</h6></td>
 
                         </tr>
@@ -25,7 +25,7 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Chinnaswamy.jpeg" width="150px" alt="" srcset=""> </th>
+                            <th><img src="./members/IMG-6593.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Chinnaswamy</h6></td>
 
                         </tr>
@@ -35,12 +35,12 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Govindappa.jpeg" width="150px" alt="" srcset=""> </th>
+                            <th><img src="./members/IMG-6576.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Govindappa</h6></td>
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Chalapathi.jpeg" width="150px" alt="" srcset=""> </th>
+                            <th><img src="./members/IMG-6578.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Chalapathi</h6></td>
 
                         </tr>
@@ -50,7 +50,7 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Nagarage.jpeg" width="150px" alt="" srcset=""> </th>
+                            <th><img src="./members/IMG-6580.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Nagaraj</h6></td>
 
                         </tr>
