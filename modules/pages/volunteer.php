@@ -55,7 +55,7 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Manjunatha.jpeg" width="150px" alt="" srcset=""> </th>
+                            <th><img src="./members/IMG-6577.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Manjunatha V</h6></td>
 
                         </tr>
