@@ -9,19 +9,9 @@
                 <table class="table table-bordered">
 
                     <tbody>
-                        <tr>
-                            <th><img src="./members/Ramesh K.jpeg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Ramesh K</h6></td>
-
-                        </tr>
-                        <tr>
-                            <th><img src="./members/IMG-6581.jpg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Sridhar N</h6></td>
-
-                        </tr>
-                        <tr>
-                            <th><img src="./members/Muninarayappa.jpeg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Muninarayanappa</h6></td>
+                    <tr>
+                            <th><img src="./members/IMG-6576.jpg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Govindappa</h6></td>
 
                         </tr>
                         <tr>
@@ -30,15 +20,42 @@
 
                         </tr>
                         <tr>
+                            <th><img src="./members/Muninarayappa.jpeg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Muninarayanappa</h6></td>
+
+                        </tr>
+                        <tr>
+                            <th><img src="./members/Ramesh K.jpeg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Ramesh K</h6></td>
+
+                        </tr>
+                        <tr>
+                            <th><img src="./members/IMG-6577.jpg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Manjunatha V</h6></td>
+
+                        </tr>
+                          <tr>
+                            <th><img src="./members/IMG-6581.jpg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Sridhar N</h6></td>
+
+                        </tr>                    
+                        <tr>
                             <th><img src="./members/Mashesh kumar.jpeg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Mashesh kumar</h6></td>
 
                         </tr>
                         <tr>
-                            <th><img src="./members/IMG-6576.jpg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Govindappa</h6></td>
+                            <th><img src="./members/IMG-6580.jpg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Nagaraj</h6></td>
 
                         </tr>
+                        <tr>
+                            <th><img src="./members/IMG-6582.jpg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Ravi</h6></td>
+
+                        </tr>
+
+                     
                         <tr>
                             <th><img src="./members/IMG-6578.jpg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>Chalapathi</h6></td>
@@ -50,30 +67,18 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/IMG-6580.jpg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Nagaraj</h6></td>
+                            <th><img src="./members/Pradeep.jpeg" width="150px" alt="" srcset=""> </th>
+                            <td ><h6>Pradeep S</h6></td>
 
                         </tr>
-                        <tr>
-                            <th><img src="./members/IMG-6577.jpg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Manjunatha V</h6></td>
-
-                        </tr>
+                        
                         <tr>
                             <th><img src="./members/M Denash kumar.jpeg" width="150px" alt="" srcset=""> </th>
                             <td ><h6>M Denash kumar</h6></td>
 
                         </tr>
-                        <tr>
-                            <th><img src="./members/IMG-6582.jpg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Ravi</h6></td>
-
-                        </tr>
-                        <tr>
-                            <th><img src="./members/Pradeep.jpeg" width="150px" alt="" srcset=""> </th>
-                            <td ><h6>Pradeep S</h6></td>
-
-                        </tr>
+                       
+                  
                         
                        
                     </tbody>
