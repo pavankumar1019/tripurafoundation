@@ -24,7 +24,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="img-box">
-                                <img src="./logo.png" alt="">
+                                <img src="./logo.png" alt="Tripura Foundation | Kolar">
                             </div>
                         </div>
                     </div>
@@ -51,7 +51,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="img-box">
-                                <img src="images/swamiji.png" alt="">
+                                <img src="images/swamiji.png" alt="V K MANJUNATHA SWAMIJI | Tripura Foundation | Jangatta  ">
                             </div>
                         </div>
                     </div>
@@ -77,7 +77,7 @@
                         </div>
                         <div class="col-md-6">
                             <div class="img-box">
-                                <img src="images/amma.jpeg" alt="">
+                                <img src="images/amma.jpeg" alt="Tripura Foundation | Kolar">
                             </div>
                         </div>
                     </div>
