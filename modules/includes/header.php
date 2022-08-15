@@ -9,7 +9,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <!-- Site Metas -->
   <link rel="icon" href="images/logo.ico" type="image/gif" />
-  <meta name="keywords" content="Tripura Foundation Jangatta Kolar " />
+  <meta name="keywords" content="Tripura Foundation Jangatta Kolar | Om Sri Matha Mahakali trust" />
   <meta name="description" content="OM SRI MATHA MAHAKALI TRUST
 " />
   <meta name="author" content="PK | Web Devloper" />
