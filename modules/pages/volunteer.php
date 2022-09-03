@@ -24,11 +24,7 @@
                             <td ><h6>Muninarayanappa</h6></td>
 
                         </tr>
-                        <tr>
-                            <th><img src="./members/Ramesh K.jpeg" width="150px" alt="Ramesh K | Tripura Foundation" srcset=""> </th>
-                            <td ><h6>Ramesh K</h6></td>
-
-                        </tr>
+             
                         <tr>
                             <th><img src="./members/IMG-6577.jpg" width="150px" alt="Manjunatha V | Tripura Foundation" srcset=""> </th>
                             <td ><h6>Manjunatha V</h6></td>
