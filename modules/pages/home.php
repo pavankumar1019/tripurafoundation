@@ -326,7 +326,7 @@
                             <div class="card">
                                 <img src="./images/president.png" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">Card title</p>
+                                    <p class="card-title">Manjula M</p>
                                 </div>
                             </div>
                         </div>
