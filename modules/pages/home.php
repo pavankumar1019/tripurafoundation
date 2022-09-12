@@ -318,7 +318,7 @@
                             <div class="card" style="width:10rem;">
                                 <img src="./images/swamiji.png" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">V.K. MANJUNATHA SWAMIJI</p>
+                                    <p class="card-title text-center">V.K. MANJUNATHA SWAMIJI</p>
                                 </div>
                             </div>
                         </div>
@@ -326,7 +326,7 @@
                             <div class="card" style="width:10rem;">
                                 <img src="./images/president.png" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">Manjula M</p>
+                                    <p class="card-title text-center">Manjula M</p>
                                 </div>
                             </div>
                         </div>
@@ -334,7 +334,7 @@
                             <div class="card" style="width:10rem;">
                                 <img src="./members/Muninarayappa.jpeg" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">Muninarayanappa</p>
+                                    <p class="card-title text-center">Muninarayanappa</p>
                                 </div>
                             </div>
                         </div>
@@ -342,7 +342,7 @@
                             <div class="card" style="width:10rem;">
                                 <img src="./members/IMG-6576.jpg" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">Govindappa</p>
+                                    <p class="card-title text-center">Govindappa</p>
                                 </div>
                             </div>
                         </div>
