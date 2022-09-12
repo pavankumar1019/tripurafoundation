@@ -346,6 +346,38 @@
                                 </div>
                             </div>
                         </div>
+                        <div class="col-6 col-lg-2 mt-1">
+                            <div class="card" style="width:10rem;">
+                                <img src="./members/Rajesh.jpeg" class="card-img-top" alt="...">
+                                <div class="card-body p-0">
+                                    <p class="card-title text-center">Rajesh</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-2 mt-1">
+                            <div class="card" style="width:10rem;">
+                                <img src="./members/IMG-6593.jpg" class="card-img-top" alt="...">
+                                <div class="card-body p-0">
+                                    <p class="card-title text-center">Chinnaswamy</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-2 mt-1">
+                            <div class="card" style="width:10rem;">
+                                <img src="./members/IMG-6581.jpg" class="card-img-top" alt="...">
+                                <div class="card-body p-0">
+                                    <p class="card-title text-center">Sridhar N</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-6 col-lg-2 mt-1">
+                            <div class="card" style="width:10rem;">
+                                <img src="./members/Mashesh kumar.jpeg" class="card-img-top" alt="...">
+                                <div class="card-body p-0">
+                                    <p class="card-title text-center">Mashesh kumar</p>
+                                </div>
+                            </div>
+                        </div>
 
                        
                         
