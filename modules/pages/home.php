@@ -315,7 +315,7 @@
         </div>
         <div class="row">
                         <div class="col-6 mt-1 ">
-                            <div class="card" style="width: 18rem;">
+                            <div class="card">
                                 <img src="./images/swamiji.png" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
                                     <p class="card-title">V.K. MANJUNATHA SWAMIJI</p>
@@ -323,7 +323,7 @@
                             </div>
                         </div>
                         <div class="col-6 mt-1">
-                            <div class="card" style="width: 18rem;">
+                            <div class="card">
                                 <img src="./images/president.png" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
                                     <p class="card-title">Manjula M</p>
@@ -331,7 +331,7 @@
                             </div>
                         </div>
                         <div class="col-6 mt-1">
-                            <div class="card" style="width: 18rem;">
+                            <div class="card" >
                                 <img src="./members/Muninarayappa.jpeg" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
                                     <p class="card-title">Muninarayanappa</p>
@@ -339,7 +339,7 @@
                             </div>
                         </div>
                         <div class="col-6 mt-1">
-                            <div class="card" style="width: 18rem;">
+                            <div class="card">
                                 <img src="./members/IMG-6576.jpg" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
                                     <p class="card-title">Govindappa</p>
