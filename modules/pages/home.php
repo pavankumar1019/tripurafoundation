@@ -306,8 +306,8 @@
 
 <section class="client_section layout_padding">
     <div class="container ">
-        <div class="heading_container heading_center">
-            <h2>
+        <div>
+            <h2 class="text-center">
                 Trust members
             </h2>
             <hr>
