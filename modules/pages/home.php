@@ -318,7 +318,7 @@
                             <div class="card">
                                 <img src="./images/swamiji.png" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">Card title</p>
+                                    <p class="card-title">V.K. MANJUNATHA SWAMIJI</p>
                                 </div>
                             </div>
                         </div>
