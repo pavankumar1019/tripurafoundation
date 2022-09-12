@@ -332,17 +332,17 @@
                         </div>
                         <div class="col-6 mt-1">
                             <div class="card">
-                                <img src="./images/president.png" class="card-img-top" alt="...">
+                                <img src="./members/Muninarayappa.jpeg" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">Card title</p>
+                                    <p class="card-title">Muninarayanappa</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6 mt-1">
                             <div class="card">
-                                <img src="./images/president.png" class="card-img-top" alt="...">
+                                <img src="./members/IMG-6576.jpg" class="card-img-top" alt="...">
                                 <div class="card-body p-0">
-                                    <p class="card-title">Card title</p>
+                                    <p class="card-title">Govindappa</p>
                                 </div>
                             </div>
                         </div>
