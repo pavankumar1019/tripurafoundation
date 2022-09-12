@@ -308,8 +308,9 @@
     <div class="container ">
         <div>
             <h2 class="text-center">
-                Trust members
+               Om Shri Matha Maha kali Trust (R) 
             </h2>
+            <h6 class="text-muted text-center"> Member's</h6>
             <hr>
         </div>
         <div class="row">
