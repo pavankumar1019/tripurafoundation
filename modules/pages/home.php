@@ -314,51 +314,8 @@
         </div>
         <div class="row">
             <div class="col-md-6 mx-auto">
-                <div class="client_container ">
-                    <!-- <div class="detail-box">
-              <p>
-                In the competitive world of today, survival is not a matter of qualification but one of qualification with competence. A better survivor is one with better competency and qualification. The thrust is specialization i.e., creating a niche by one’s ability, skill qualification and competency.              </p>
-              <span>
-                <i class="fa fa-quote-left" aria-hidden="true"></i>
-              </span>
-            </div> -->
-                    <div class="client_id">
-                        <div class="img-box">
-                            <img src="images/president.png" alt="">
-                        </div>
-                        <div class="client_name">
-                            <h5>
-                            Manjula M
-                            </h5>
-                        
-                        </div>
-                    </div>
-                </div>
+                
             </div>
-            <div class="col-md-6 mx-auto">
-                <div class="client_container ">
-                 
-                    <div class="client_id">
-                        <div class="img-box">
-                            <img src="members/sudarshana.jpeg" alt="">
-                        </div>
-                        <div class="client_name">
-                            <h5>
-                            Sudarshan M
-                            </h5>
-                         
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-
-
-
-
-
-
         </div>
     </div>
   
