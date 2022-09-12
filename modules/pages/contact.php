@@ -9,16 +9,16 @@
           </div>
           <form id="form-search">
             <div>
-              <input type="text" name="u_name" placeholder="Name" />
+              <input type="text" name="u_name" placeholder="Name" required>
             </div>
             <div>
-              <input type="email" name="email" placeholder="Email" />
+              <input type="email" name="email" placeholder="Email" required>
             </div>
             <div>
-              <input type="text" name="contact" placeholder="Pone Number" />
+              <input type="text" name="contact" placeholder="Pone Number" required>
             </div>
             <div>
-              <input type="text" name="message" class="message-box" placeholder="Message" />
+              <input type="text" name="message" class="message-box" placeholder="Message" required>
             </div>
             <div class="btn-box">
               <button type="submit">
