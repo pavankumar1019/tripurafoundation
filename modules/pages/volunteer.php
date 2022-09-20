@@ -10,7 +10,7 @@
 
                     <tbody>
                     <tr>
-                            <th><img src="./members/IMG-6576.jpg" width="150px" alt="Govindappa | Tripura Foundation Kolar" srcset=""> </th>
+                            <th><img src="./members/IMG_2435.JPG" width="150px" alt="Govindappa | Tripura Foundation Kolar" srcset=""> </th>
                             <td ><h6>Govindappa</h6></td>
 
                         </tr>
