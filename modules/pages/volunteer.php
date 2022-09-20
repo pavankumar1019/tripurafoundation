@@ -15,12 +15,12 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/IMG-6593.jpg" width="150px" alt="Chinnaswamy | Tripura Foundation Kolar" srcset=""> </th>
+                            <th><img src="./members/IMG_2431.JPG" width="150px" alt="Chinnaswamy | Tripura Foundation Kolar" srcset=""> </th>
                             <td ><h6>Chinnaswamy</h6></td>
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Muninarayappa.jpeg" width="150px" alt="Muninarayanappa | Tripura Foundation Kolar" srcset=""> </th>
+                            <th><img src="./members/IMG_2434.JPG" width="150px" alt="Muninarayanappa | Tripura Foundation Kolar" srcset=""> </th>
                             <td ><h6>Muninarayanappa</h6></td>
 
                         </tr>
@@ -31,7 +31,7 @@
 
                         </tr>
                           <tr>
-                            <th><img src="./members/IMG-6581.jpg" width="150px" alt="Sridhar N | Tripura Foundation" srcset=""> </th>
+                            <th><img src="./members/IMG_2432.JPG" width="150px" alt="Sridhar N | Tripura Foundation" srcset=""> </th>
                             <td ><h6>Sridhar N</h6></td>
 
                         </tr>                    
@@ -58,7 +58,7 @@
 
                         </tr>
                         <tr>
-                            <th><img src="./members/Rajesh.jpeg" width="150px" alt="Rajesh | Tripura Foundation" srcset=""> </th>
+                            <th><img src="./members/Rajesh.JPG" width="150px" alt="Rajesh | Tripura Foundation" srcset=""> </th>
                             <td ><h6>Rajesh</h6></td>
 
                         </tr>
