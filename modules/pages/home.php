@@ -324,7 +324,7 @@
                         </div>
                         <div class="col-6  col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./images/president.png" class="card-img-top" alt="Manjula M | Tripura Foundation Kolar">
+                                <img src="./members/IMG_2437.JPG" class="card-img-top" alt="Manjula M | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Manjula M</p>
                                 </div>
