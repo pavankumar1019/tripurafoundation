@@ -340,7 +340,7 @@
                         </div>
                         <div class="col-6 col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./members/IMG_2435.JGP" class="card-img-top" alt="Govindappa | Tripura Foundation Kolar">
+                                <img src="./members/IMG_2435.JPG" class="card-img-top" alt="Govindappa | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Govindappa</p>
                                 </div>
