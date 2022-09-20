@@ -332,7 +332,7 @@
                         </div>
                         <div class="col-6  col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./members/Muninarayappa.jpeg" class="card-img-top" alt="Muninarayanappa | Tripura Foundation Kolar">
+                                <img src="./members/IMG_2434.JPG" class="card-img-top" alt="Muninarayanappa | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Muninarayanappa</p>
                                 </div>
@@ -340,7 +340,7 @@
                         </div>
                         <div class="col-6 col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./members/IMG-6576.jpg" class="card-img-top" alt="Govindappa | Tripura Foundation Kolar">
+                                <img src="./members/IMG_2435.JGP" class="card-img-top" alt="Govindappa | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Govindappa</p>
                                 </div>
@@ -348,7 +348,7 @@
                         </div>
                         <div class="col-6 col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./members/Rajesh.jpeg" class="card-img-top" alt="Rajesh | Tripura Foundation Kolar">
+                                <img src="./members/Rajesh.JPG" class="card-img-top" alt="Rajesh | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Rajesh</p>
                                 </div>
@@ -356,7 +356,7 @@
                         </div>
                         <div class="col-6 col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./members/IMG-6593.jpg" class="card-img-top" alt="Chinnaswamy | Tripura Foundation Kolar">
+                                <img src="./members/IMG_2431.JPG" class="card-img-top" alt="Chinnaswamy | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Chinnaswamy</p>
                                 </div>
@@ -364,7 +364,7 @@
                         </div>
                         <div class="col-6 col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./members/IMG-6581.jpg" class="card-img-top" alt="Sridhar N | Tripura Foundation Kolar">
+                                <img src="./members/IMG_2432.JPG" class="card-img-top" alt="Sridhar N | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Sridhar N</p>
                                 </div>
@@ -372,7 +372,7 @@
                         </div>
                         <div class="col-6 col-lg-2 mt-1">
                             <div class="card" style="width:10rem;">
-                                <img src="./members/Mashesh kumar.jpeg" class="card-img-top" alt="Mashesh kumar | Tripura Foundation Kolar">
+                                <img src="./members/IMG_2430.JPG" class="card-img-top" alt="Mashesh kumar | Tripura Foundation Kolar">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">Mashesh kumar</p>
                                 </div>
