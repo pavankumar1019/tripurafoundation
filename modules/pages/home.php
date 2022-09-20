@@ -316,7 +316,7 @@
         <div class="row">
                         <div class="col-6  col-lg-2 mt-1 ">
                             <div class="card" style="width:10rem;">
-                                <img src="./images/swamiji.png" class="card-img-top" alt="V.K. MANJUNATHA SWAMIJI">
+                                <img src="./members/IMG_2427.JPG" class="card-img-top" alt="V.K. MANJUNATHA SWAMIJI">
                                 <div class="card-body p-0">
                                     <p class="card-title text-center">V.K. MANJUNATHA SWAMIJI</p>
                                 </div>
