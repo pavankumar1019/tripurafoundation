@@ -53,7 +53,7 @@
 
                      
                         <tr>
-                            <th><img src="./members/IMG-6578.jpg" width="150px" alt="Chalapathi || Tripura Foundation " srcset=""> </th>
+                            <th><img src="./members/IMG_2436.JPG" width="150px" alt="Chalapathi || Tripura Foundation " srcset=""> </th>
                             <td ><h6>Chalapathi</h6></td>
 
                         </tr>
